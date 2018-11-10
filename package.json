@@ -1,0 +1,27 @@
+{
+  "name": "ppdpostgraphile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "azure-function-express": "^2.0.0",
+    "body-parser": "^1.18.2",
+    "dotenv": "^5.0.0",
+    "express": "^4.16.4",
+    "graphiql": "^0.11.11",
+    "graphql": "^0.13.1",
+    "jsonwebtoken": "^8.3.0",
+    "pg": "^7.4.1",
+    "postgraphile": "^4.0.0-alpha2.33",
+    "postgraphile-core": "0.1.0-alpha.41",
+    "prop-types": "^15.6.2",
+    "react": "^16.6.1",
+    "react-dom": "^16.6.1"
+  }
+}
